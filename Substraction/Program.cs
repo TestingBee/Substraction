@@ -10,6 +10,7 @@ namespace Substraction
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello Sri");
         }
     }
 }
