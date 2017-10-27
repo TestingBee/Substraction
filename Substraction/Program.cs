@@ -12,7 +12,7 @@ namespace Substraction
         {
             //Console.WriteLine("enter first value:");
             int value1 = 3;
-            int valuse2 = 4;
+            int valuse2 = 5;
             int result = valuse2 - value1;
             Console.WriteLine(result);
             Console.ReadKey();
